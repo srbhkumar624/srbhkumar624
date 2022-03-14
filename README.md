@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srbhkumar624
-- 👀 I’m interested in ...coading 
+- 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ...full stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...srbhkumar624@gmail.com
